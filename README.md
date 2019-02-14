@@ -18,16 +18,15 @@ Software :
 Install them by running these commands
 
 ```
-sudo apt-get update
+$ sudo apt-get update
 
-sudo apt install qemu 
-
+$ sudo apt install qemu 
 ```
 Remmina is installed by default on Ubuntu 16.04, if not installed run command
 ```
-sudo apt-get update
+$ sudo apt-get update
 
-sudo apt install remmina
+$ sudo apt install remmina
 ```
 
 Steps :
