@@ -14,13 +14,23 @@ Software :
   
   * qemu
   * remmina
+  * git-lfs
   
 Install them by running these commands
 
 ```
-$ sudo apt-get update
+$ sudo apt-get install software-properties-common
+
+$ sudo add-apt-repository ppa:git-core/ppa
+
+$ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+
+$ sudo apt-get install git-lfs
+
+$ git lfs install
 
 $ sudo apt install qemu 
+
 ```
 Remmina is installed by default on Ubuntu 16.04, if not installed run command
 ```
