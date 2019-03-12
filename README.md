@@ -33,6 +33,8 @@ $ git lfs install
 
 $ sudo apt install qemu 
 
+$ sudo apt install uml-utilities
+
 ```
 Remmina is installed by default on Ubuntu 16.04, if not installed run command
 ```
