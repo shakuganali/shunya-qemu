@@ -1,3 +1,6 @@
+# Not-Working 
+This Repository does not work because an issue with git LFS. We will fix it soon. Sorry for your inconvenience.
+
 Emulate Shunya OS using QEMU
 ===============================
 
